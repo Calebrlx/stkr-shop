@@ -12,7 +12,7 @@ module.exports = withPWA({
     siteKeywords: 'dog, stickers, fun',
     siteUrl: 'https://www.doggystickers.xyz',
     siteImagePreviewUrl: '/images/main.jpg',
-    twitterHandle: '@deepwhitman'
+    twitterHandle: '@calebforestal'
   },
   images: {
     domains: ['cdn.shopify.com'],
